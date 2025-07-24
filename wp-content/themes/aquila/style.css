@@ -1,0 +1,24 @@
+/*
+Theme Name: Aquila
+Theme URI: https://example.com/aquila
+Author: Langer Pereira
+Author URI: https://example.com/about
+Description: A very basic custom WordPress theme for learning.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: aquila
+Tags: custom-background, custom-logo, custom-menu, featured-images, theme-options   
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0051ff;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #002130;
+}
